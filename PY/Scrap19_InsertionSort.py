@@ -15,7 +15,6 @@ def InSort(Array):
     return Array
 
 
-
 Input = [5, 3, 7, 2, 9, 2, 1]
 
 print("List:", Input)
